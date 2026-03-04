@@ -1,0 +1,15 @@
+python -m uvicorn main:app --reload
+//backend
+
+
+
+npm run dev
+//frontend
+
+
+
+http://127.0.0.1:8000/docs#/
+backend settings
+
+pip install -r requirements.txt
+//requirments download
