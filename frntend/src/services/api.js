@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "http://3.85.143.12:8000"
+    baseURL: "http://3.85.143.12:8000/docs"
 });
 
 export const askAI = ({ user_id, question, difficulty }) =>
@@ -21,3 +21,4 @@ export const uploadPDF = (user_id, formData) =>
 export const clearSession = (user_id) =>
 
     API.post("/clear-session", { user_id });
+
