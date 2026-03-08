@@ -122,7 +122,7 @@ Designed to scale for millions of learners across Bharat.
 ## 👨‍💻 Team
 
 - Backend & AI: Anas Ahmad  
-- Presentation & Strategy: Team Member  
+- Presentation & Strategy: Anmol sharma
 
 ---
 
@@ -141,5 +141,6 @@ Designed to scale for millions of learners across Bharat.
 MIT License
 
 ---
+
 
 ### Built with ❤️ for AI for Bharat
